@@ -1,1 +1,1 @@
-# GitBook-MdN / GitBook-MdN-Demo
+# Gitプロジェクトサンプル
